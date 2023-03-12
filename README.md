@@ -1,5 +1,6 @@
 ## ⭐️ Tae Kyung 
-Hello, I'm a senior at PNU(major. computer science and engineering).
+
+_Think Hard_
 
 
 [![Velog]](https://velog.io/@kimtg1997)

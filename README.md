@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tigerfriend1&langs_count=10&layout=compact&theme=dark&hide=javascript,html,css,roff,coffeescript,glsl)](https://github.com/Tigerfriend1/Tigerfriend1)﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tigerfriend1&langs_count=10&layout=compact&theme=dark&hide=javascript,html,css,roff,coffeescript,glsl)](https://github.com/Tigerfriend1/Tigerfriend1)

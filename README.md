@@ -2,10 +2,11 @@
 
 _Think Hard_
 
-
+[![Resume]](https://www.notion.so/tae-kyung/4f2a8bcc7fdc47f79005029e3a329440)
 [![Velog]](https://velog.io/@kimtg1997)
 [![Mail]](mailto:kimtg1997@pusan.ac.kr)
 
+[resume]: https://img.shields.io/badge/Resume-F7DF1E?style=flat-square&logoColor=blue
 [Velog]: http://img.shields.io/badge/-%20Velog-96F2D7?style=flat-square&logo=github%20Sponsors&logoColor=white
 [mail]: https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white
 

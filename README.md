@@ -10,7 +10,9 @@ _Think Hard_
 [Velog]: http://img.shields.io/badge/-%20Velog-96F2D7?style=flat-square&logo=github%20Sponsors&logoColor=white
 [mail]: https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white
 
+<!--
 ![TK's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigerfriend1&show_icons=true&theme=dark)
+-->
 
 <!--
 **Tigerfriend1/Tigerfriend1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
